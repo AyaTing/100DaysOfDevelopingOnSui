@@ -1,8 +1,0 @@
-target/
-.DS_Store
-.idea/
-.vscode/
-build/
-*.blob
-*.debug
-*.trace
